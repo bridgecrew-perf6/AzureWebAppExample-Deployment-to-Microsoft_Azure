@@ -34,9 +34,12 @@
 
 ![Publish](https://github.com/ialcaidef/AzureWebAppExample-Deployment-to-Microsoft_Azure/blob/master/Images/01.png)
 
+![Publish](https://github.com/ialcaidef/AzureWebAppExample-Deployment-to-Microsoft_Azure/blob/master/Images/02.png)
+
 12. In the **Pick a publish target** dialog box, in the result pane, click **Create New**, and then click **Create Profile**.
 
-![Publish](https://github.com/ialcaidef/AzureWebAppExample-Deployment-to-Microsoft_Azure/blob/master/Images/02.png)
+![Publish](https://github.com/ialcaidef/AzureWebAppExample-Deployment-to-Microsoft_Azure/blob/master/Images/03.png)
+
 
 13. In the **Create App Service** dialog box, click **Sign in**.
 
