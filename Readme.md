@@ -38,9 +38,6 @@
 
 12. In the **Pick a publish target** dialog box, in the result pane, click **Create New**, and then click **Create Profile**.
 
-![Publish](https://github.com/ialcaidef/AzureWebAppExample-Deployment-to-Microsoft_Azure/blob/master/Images/04.png)
-
-
 13. In the **Create App Service** dialog box, click **Sign in**.
 
     >**Note**: In case you have already signed in, you will not see this dialog box. In that case, go to step 16.
@@ -52,7 +49,7 @@
 16. In the **Create App Service** dialog box, in the **App Name** box, type  **AzureWebAppExample{unique name}**.  
 
     >**Note**: The name must be unique. You can add your first name, last name, or birthdate to the current name.
-
+    
 17. In the **Create App Service** dialog box, below the **Resource Group** box, click **New**. 
 
 18. In the **New resource group name** box, type **AzureWebAppExample**, and then click **OK**.
@@ -61,11 +58,17 @@
 
 20. In the **Configure Hosting Plan** dialog box, in the **App Service Plan** box, type **AzureWebAppExample{unique name}**, and then click **OK**. 
 
+   ![Publish](https://github.com/ialcaidef/AzureWebAppExample-Deployment-to-Microsoft_Azure/blob/master/Images/04.png)
+
 21. In the **Create App Service** dialog box, click **Create**.
+
+   ![Publish](https://github.com/ialcaidef/AzureWebAppExample-Deployment-to-Microsoft_Azure/blob/master/Images/05.png)
 
 22. In the **Publish** window, click **Publish**.
 
     >**Note**: The browser displays the home page, and the URL is: http://azurewebapp{unique name}.azurewebsites.net/
+    
+    ![Publish](https://github.com/ialcaidef/AzureWebAppExample-Deployment-to-Microsoft_Azure/blob/master/Images/06.png)
 
 23. In Microsoft Edge, in the address bar, type **http://portal.azure.com**, and then press Enter.
 
@@ -80,6 +83,8 @@
 26. In Microsoft Edge, click the **AzureWebApp{unique name}** app service.
 
     >**Note**: View the details in the overview window.
+    
+    ![Publish](https://github.com/ialcaidef/AzureWebAppExample-Deployment-to-Microsoft_Azure/blob/master/Images/07.png)
 
 27. In Microsoft Edge, click **Close**.
 
@@ -104,6 +109,10 @@
 33. In the **Publish** window, click **Publish**.
 
     >**Note**: The browser displays:  **This is a ASP .NET web application deployed on Azure App Service**. 
+    
+34. Final result
+
+   ![Publish](https://github.com/ialcaidef/AzureWebAppExample-Deployment-to-Microsoft_Azure/blob/master/Images/08.png)
 
 34. In Microsoft Edge, click **Close**.
 
