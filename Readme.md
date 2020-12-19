@@ -32,7 +32,11 @@
 
 11. In the **Pick a publish target** dialog box, in the left pane, click **App Service**.
 
+![Publish](https://github.com/ialcaidef/AzureWebAppExample-Deployment-to-Microsoft_Azure/blob/master/Images/01.png)
+
 12. In the **Pick a publish target** dialog box, in the result pane, click **Create New**, and then click **Create Profile**.
+
+![Publish](https://github.com/ialcaidef/AzureWebAppExample-Deployment-to-Microsoft_Azure/blob/master/Images/02.png)
 
 13. In the **Create App Service** dialog box, click **Sign in**.
 
