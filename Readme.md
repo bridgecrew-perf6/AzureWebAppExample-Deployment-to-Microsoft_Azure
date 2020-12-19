@@ -1,13 +1,13 @@
-Deployment to Microsoft Azure
+# Deployment to Microsoft Azure
 
-Demonstration: How to Deploy a Web Application to Microsoft Azure
+### Demonstration: How to Deploy a Web Application to Microsoft Azure
 
-Preparation Steps 
+**Preparation Steps** 
 
 1. Ensure that you have cloned the 20486D directory from GitHub. It contains the code segments for the labs and demos of this course. (https://github.com/MicrosoftLearning/20486D-DevelopingASPNETMVCWebApplications/tree/master/Allfiles)
 2. Ensure that you have a Microsoft Azure account.
 
-Demonstration Steps 
+**Demonstration Steps** 
 
 1. Start Microsoft Visual Studio 2017.
 2. In the Start Page - Microsoft Visual Studio window, on the FILE menu, point to New, and then click Project.
